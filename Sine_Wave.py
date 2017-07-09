@@ -1,5 +1,5 @@
 ## Graph a Sine Wave
-
+# I made a change
 import matplotlib.pyplot as plt
 import numpy as np
 
